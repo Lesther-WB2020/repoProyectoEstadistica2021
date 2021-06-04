@@ -1,0 +1,34 @@
+# ANÁLISIS xx
+  
+  -> 
+  
+######### -> VARIABLES: '', '' ( vs )
+######### -> MODELO: 
+######### -> GRAFICA: 
+  
+```{r}
+
+```
+
+  -> VER GRAFICA CONFUSA XX
+
+######### SE PUEDE VALIDAR QUE 
+
+######### Ho: 
+
+######### H1: 
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+# CONCLUSIÓN ANÁLISIS xx
+
+  ->   
+  
+  
+
