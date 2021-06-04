@@ -10,6 +10,9 @@
 ## ¿QUÉ ARCHIVO CONTIENE EL CÓDIGO DE LOS ANÁLISIS?
   * scriptsRmd.Rmd 
 
+## CARPETA 'graficasConfusas'
+  * Contiene imágenes de gráficas que no se podían visualizar de forma adecuada en el archivo.Rmd, cada imágen fue nombrada con un número correspondiente al análisis que lo requería. La referencia a cada una de ellas está en el códgio. (scriptsRmd.Rmd)
+
 ## CARPETA 'SRC'.
   * MX_category_id.json -> Es el archivo de referencia que contiene los IDCategory y el CHANNEL correspondiente. ID=10,CHANEL=MUSIC
   * MX_youtube_trending_data.csv -> archivo original obtenido de Kaggle.
