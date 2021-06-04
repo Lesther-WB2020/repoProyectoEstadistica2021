@@ -5,7 +5,7 @@
   * CORTEZ, JEFFERSON JOSEPH               . -> 2490-19-14452
 
 ## VÍDEO EXPLICATIVO
-  * ENLACE:   
+  * ENLACE: https://drive.google.com/file/d/1h6pI_yhO3K8EBCJzB36GuFqLLpMOGGuz/view?usp=sharing 
 
 ## ¿QUÉ ARCHIVO CONTIENE EL CÓDIGO DE LOS ANÁLISIS?
   * scriptsRmd.Rmd 
