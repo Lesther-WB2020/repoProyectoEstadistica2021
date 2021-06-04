@@ -1,16 +1,20 @@
-#                       PROYECTO ESTADÍSTICA 2021
+#                        . PROYECTO ESTADÍSTICA 2021 .
 
 ## INTEGRANTES
-  * XITUMUL MANUEL, LESTHER CARLOS HORALDO -> 2490-19-778
-  * CORTEZ, JEFFERSON JOSEPH               -> 2490-19-14452
+  * XITUMUL MANUEL, LESTHER CARLOS HORALDO . -> 2490-19-778
+  * CORTEZ, JEFFERSON JOSEPH               . -> 2490-19-14452
 
 ## VÍDEO EXPLICATIVO
   * ENLACE:   
+
+## ¿QUÉ ARCHIVO CONTIENE EL CÓDIGO DE LOS ANÁLISIS?
+  * scriptsRmd.Rmd 
 
 ## CARPETA 'SRC'.
   * MX_category_id.json -> Es el archivo de referencia que contiene los IDCategory y el CHANNEL correspondiente. ID=10,CHANEL=MUSIC
   * MX_youtube_trending_data.csv -> archivo original obtenido de Kaggle.
   * MX_youtube_trending_data_fixed.csv -> archivo modificado con datos utiles para nuestro analisis.
+  * Los otros dos datasets empleados sin modificación.
 
 ## LINKS DATASETS:
   1. https://www.kaggle.com/rsrishav/youtube-trending-video-dataset
